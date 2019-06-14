@@ -3,3 +3,6 @@ The navy board game in C.
 
 
 The aim of this project is to recreate the famous navy game in a C program between 2 terminals thanks to signals.
+
+
+This project has been done in collaboration with Maïlys Perez.
